@@ -8,7 +8,7 @@ I built it with Python, OpenCV, MediaPipe and sounddevice.
 
 ## Demo
 
-![AirPiano Demo](assets/demo.png)
+![AirPiano Demo](assets/image.png)
 
 ## What it does
 
